@@ -1,2 +1,2 @@
-# ozone-radical-diagnosis
+# Understanding global surface ozone
 This is s demonstrative code collection for research article "Enriching radical-associated diagnostic indicators facilitates analytical understanding of surface ozone processes"

@@ -48,4 +48,4 @@ Here is a content list of all demonstrative codes:
 ##### &ensp;&ensp;&ensp;&ensp;O₃ regulation regime and radical-associated diagnostic indicators in global representative regions 
 
 ### 3. Extended Data Figures
-### 4. Extended Data Figures
+### 4. Supplementary Methodological Notes

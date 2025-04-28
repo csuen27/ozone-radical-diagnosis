@@ -36,4 +36,13 @@ Here is a content list of all demonstrative codes:
 #### 1.7.  Global ozone regulatory regime mapping
 ##### 1.7.1. Quadratic fitting for precursor sensitivities
 
-### 2. Figures for Main Texts
+### 2. Figures for Main Text
+
+#### 2.1. Fig. 2 
+##### Geographical concentration distribution of radicals associated with land surface O${_3}$ chemistry
+
+#### 2.2. Fig. 3
+##### Decomposed chemical production and loss budget profiles of terrestrial land surface O3
+
+#### 2.3. Fig. 4
+##### O3 regulation regime and radical-associated diagnostic indicators in global representative regions 

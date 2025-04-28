@@ -11,6 +11,6 @@ Here is a content list of all demonstrative codes:
 #### 1.3  Ozone radical geographical distribution and budget decomposition
 #### 1.4  Ozone chemical budget decomposition
 #### 1.5  Ozone chemical budgets: From past 1850 to future 2100
-#### 1.6  Data extraction and preprocessing
-#### 1.7  Data extraction and preprocessing
+#### 1.6  Extended diagnostic indicators
+#### 1.7  Global ozone regulatory regime mapping
 

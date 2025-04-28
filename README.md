@@ -6,8 +6,8 @@ Here is a content list of all demonstrative codes:
 
 ### 1. Main Analysis 
 
-#### 1.1.  Data extraction and preprocessing
-##### 1.1.1. UKESM1-0-LL data extraction and pre-processing 
+####    1.1.  Data extraction and preprocessing
+#####       1.1.1. UKESM1-0-LL data extraction and pre-processing 
 
 #### 1.2.  Steady-state assumption-based cross-iteration 
 ##### 1.2.1. Steady-state approximation with iteration
@@ -48,3 +48,4 @@ Here is a content list of all demonstrative codes:
 ##### O₃ regulation regime and radical-associated diagnostic indicators in global representative regions 
 
 ### 3. Extended Data Figures
+### 4. Extended Data Figures
